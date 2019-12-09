@@ -1,7 +1,7 @@
 
 <ul>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Pedology-Books/blob/master/ped(1).pdf" style="text-decoration:none;">Factors of Soil Formation: A System of Quantitative Pedology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Pedology-Books/blob/master/ped(1).pdf" style="text-decoration:none;">Principles and Practice of Soil Science: The Soil as a Natural Resource</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Pedology-Books/blob/master/ped(2).pdf" style="text-decoration:none;">Simple Methods to Study Pedology and Edaphology of Indian Tropical Soils</a></b></li>
 
@@ -16,7 +16,7 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Pedology-Books/blob/master/ped(10).pdf" style="text-decoration:none;">Geopedology: An Integration of Geomorphology and Pedology for Soil and Landscape Studies</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Pedology-Books/blob/master/ped(11).rar" style="text-decoration:none;">Micromorphology of Soils</a></b></li>  
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Pedology-Books/blob/master/ped(12).pdf" style="text-decoration:none;">Elements of Soil Mechanics</a></b></li>  
 
 </ul>
 
